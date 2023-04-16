@@ -1,16 +1,5 @@
-# compess_app
+# Flutter Compass App
 
-A new Flutter project.
+A Flutter mobile app that uses the device's sensors to show the user's direction in a user-friendly interface. Features include setting a destination and getting directions, and switching between different units of measurement for direction. Created with Flutter and Dart.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1681637440](https://user-images.githubusercontent.com/71751169/232289808-f46efe29-c75f-438f-b65d-e6a0bcc8c2e2.png)
